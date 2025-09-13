@@ -1,4 +1,4 @@
-# LEGO Engagement Analysis - Setup & Usage Guide
+# Human Engagement LSTM Analysis - Setup & Usage Guide
 
 ## 1. Environment Setup
 
